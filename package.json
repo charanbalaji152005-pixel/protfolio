@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/charanbalaji152005-pixel/Protfolio/",
+  "homepage": "https://charanbalaji152005-pixel.github.io/Protfolio/",
   "type": "module",
   "scripts": {
     "dev": "vite",
