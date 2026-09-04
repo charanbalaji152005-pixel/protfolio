@@ -1,16 +1,68 @@
-# React + Vite
+# 🚀 Charanbalaji M — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=for-the-badge&logo=githubpages)](https://charanbalaji152005-pixel.github.io/protfolio/)
+[![React](https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-8-646cff?style=for-the-badge&logo=vite)](https://vite.dev/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952b3?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 
-Currently, two official plugins are available:
+> **Welcome to the official repository of my personal portfolio website.**  
+> 🌐 **Live Website:** [https://charanbalaji152005-pixel.github.io/protfolio/](https://charanbalaji152005-pixel.github.io/protfolio/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 👨‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Charanbalaji M** — Artificial Intelligence & Machine Learning Graduate from **Mahendra Institute of Engineering and Technology**.  
+Passionate about engineering modern, responsive web applications using **React.js** and integrating intelligent **AI/ML** models.
 
-## Expanding the Oxlint configuration
+- 🎓 **Specialization:** Artificial Intelligence and Machine Learning
+- 💼 **Target Roles:** Software Developer / React.js Frontend Engineer / AI & ML Engineer
+- 📍 **Location:** Bangalore, Karnataka, India
+- 📬 **Email:** charanbalaji.152005@gmail.com
+- 🔗 **GitHub:** [@charanbalaji152005-pixel](https://github.com/charanbalaji152005-pixel)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## ⚡ Tech Stack & Tools
+
+- **Frontend:** React 19, JavaScript (ES6+), HTML5, CSS3
+- **Styling & UI:** Bootstrap 5, Custom Ambient Mesh Glow & Glassmorphism Design System
+- **Icons:** Lucide React
+- **Build Tool:** Vite 8
+- **Deployment:** GitHub Pages (`gh-pages`)
+
+---
+
+## 🛠️ Local Development Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/charanbalaji152005-pixel/protfolio.git
+   cd protfolio
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Run local dev server:**
+   ```bash
+   npm run dev
+   ```
+   Open `http://localhost:5173` in your browser.
+
+4. **Build for production:**
+   ```bash
+   npm run build
+   ```
+
+5. **Deploy to GitHub Pages:**
+   ```bash
+   npm run deploy
+   ```
+
+---
+
+## 📄 License
+This project is open-source and available under the [MIT License](LICENSE).
